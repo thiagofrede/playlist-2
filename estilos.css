@@ -1,0 +1,44 @@
+/* HEADER */
+header{
+    text-align: center;
+    height: 150px;
+    background-color:blue;
+}
+/* MAIN */
+
+main {
+    display: flex;
+    justify-content: center;
+    background-color: goldenrod;
+}
+
+
+body {
+    background-color: rgb(255, 215, 222);
+}
+
+table{
+    color:darkblue;
+    width: 70%;
+    border-color: darkblue;
+    border: top 1px;ch;
+    border-style: solid;
+    border-collapse: collapse
+}
+td {
+    color: rgba(253, 144, 235, 0.801);
+    background-color: purple;
+    border-color: darkblue;
+    border: bottom 10px;
+    border-style: solid;
+    text-align: center;
+}
+th {
+    color:rgba(253, 144, 235, 0.801) ;
+    background-color: blueviolet;
+}
+/* FOOTER */
+footer{
+    text-align: center;
+    background-color: blue;
+}
