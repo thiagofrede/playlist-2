@@ -1,8 +1,31 @@
+
+
+body{
+    background-image: url(https://i.blogs.es/80cfd8/leopard-6k-/1366_2000.jpeg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#prueba
+{
+    background-color: #8623983a;
+}
+
+
+
+
+
+
 /* HEADER */
 header {
     text-align: center;
-    height: 170px;
-    background-color: blue;
+    height: 270px;
+    
+    
+}
+img{
+    text-align: left;
 }
 
 /* MAIN */
@@ -10,7 +33,7 @@ header {
 main {
     display: flex;
     justify-content: center;
-    background-color: goldenrod;
+    
     flex-direction: column;
     align-items: center;
 }
@@ -51,5 +74,9 @@ p {
 /* FOOTER */
 footer {
     text-align: center;
-    background-color: blue;
+    
+
+}
+h2{
+    color: black;
 }

@@ -112,4 +112,24 @@ colores para la playlist
 #020502
 
 background de estilo.css
-rgb(255, 215, 22
+rgb(255, 215, 22s
+
+link de river
+https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/4X4R4YVKKBI27A6NY75OQK5PM4.jpg
+
+
+link de boca
+https://as01.epimg.net/argentina/imagenes/2020/05/18/reportajes/1589804718_590627_1589909428_noticiareportajes_grande.jpg
+
+link por si acaso
+#chica_sexy{
+    background-image: url(https://i.ytimg.com/vi/u2RuKCJpzTw/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#como_te_voy_a_olvidar{
+    background-image: url(https://pxb.cdn.ciudadano.news/ciudadano/072020/1594846529578/portada-an.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
